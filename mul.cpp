@@ -6,6 +6,6 @@ int main()
     cin >> a >> b;
     cout << "mul of " << a << " * " << b << " = " << a * b << endl;
     cin >> a >> b;
-    cout << " mul with new values is: " << a << " * " << b << " = " << a * b << endl;
+    cout << "changes changes mul with new values is: " << a << " * " << b << " = " << a * b << endl;
     return 0;
 }
